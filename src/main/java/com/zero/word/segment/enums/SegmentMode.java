@@ -1,7 +1,7 @@
 package com.zero.word.segment.enums;
 
 /**
- * @Auther: 蛇藨(shebiao)
+ * @Auther: zero
  * @Date: 2020/2/20 18:45
  * @Description:
  */
